@@ -1,0 +1,6 @@
+transaction_id,reference,amount,currency,date,status
+ORD-1001,PAY-1001,125.00,USD,2026-10-18,settled
+ORD-1002,PAY-1002,79.49,USD,2026-10-18,captured
+,PAY-1003,48.50,USD,2026-10-18,succeeded
+ORD-1005,PAY-1005,18.25,USD,2026-10-18,failed
+EXT-9000,PAY-9000,11.00,USD,2026-10-18,paid
